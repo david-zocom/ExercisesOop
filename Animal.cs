@@ -7,6 +7,7 @@ namespace ExercisesOop
 	class Animal
 	{
 		// In larger projects, avoid using public - it's a security risk
+		//public int id;
 		public string name;
 		public string species;
 		public bool hasLegs;
